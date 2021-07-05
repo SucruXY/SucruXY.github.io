@@ -192,6 +192,7 @@ p {
 }
 .contact-msg {
     width: 85%;
+    margin: auto;
 }
 a {
     font-size: 200%;
