@@ -4,6 +4,7 @@ body {
     font-size: 130%;
     font-weight: bold;
     background-color: #f0edeb;
+    text-indent: 5%;
 }
 h1 {
     font-family:'Lato', sans-serif;
@@ -293,7 +294,4 @@ p {
     font-weight: bold;
     display: inline-block;
     padding: 10px;
-}
-p {
-    text-indent: 5%;
 }
