@@ -137,6 +137,7 @@ p {
 }
 .contact-msg {
     width: 40%;
+    text-indent: 5%;
     margin: auto;
 }
 .contact-me1 {
