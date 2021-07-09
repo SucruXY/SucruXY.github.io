@@ -17,6 +17,7 @@ h2 {
     padding-top: 20px;
     font-size: 3rem;
     text-align: center;
+    background-color: #D1C3B7;
 }
 a {
     font-family:'Roboto', sans-serif;
@@ -35,6 +36,7 @@ h3 {
     font-weight: bold;
     font-size: 1.5rem;
     text-align: center;
+    background-color: #D1C3B7;
 }
 .top {
     background-color: #D1C3B7;
